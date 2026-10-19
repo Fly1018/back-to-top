@@ -1,0 +1,34 @@
+{
+  "name": "back-to-top",
+  "author": "Fly1018",
+  "url": "https://github.com/Fly1018/back-to-top",
+  "version": "0.1.0",
+  "minAppVersion": "3.8.0",
+  "backends": [
+    "all"
+  ],
+  "frontends": [
+    "desktop",
+    "desktop-window",
+    "browser-desktop"
+  ],
+  "displayName": {
+    "default": "Back to Top",
+    "zh_CN": "回到顶部",
+    "en_US": "Back to Top"
+  },
+  "description": {
+    "default": "Back to Top for SiYuan.",
+    "zh_CN": "回到顶部：思源笔记插件。",
+    "en_US": "Back to Top for SiYuan."
+  },
+  "readme": {
+    "default": "README.md",
+    "zh_CN": "README.zh-CN.md",
+    "en_US": "README.md"
+  },
+  "keywords": [
+    "back-to-top",
+    "siyuan"
+  ]
+}
